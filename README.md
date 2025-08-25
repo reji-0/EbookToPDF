@@ -26,5 +26,3 @@ For Windows users, a standalone executable version is available, eliminating the
 3. **Set Next Page Button:** Specify the location of the "next page" button or area to automate page turning during capture.
 4. **Start Conversion:** Initiate the screenshot capture process. The program will automatically progress through each page, capturing and compiling the images into a PDF.
 5. **Convert to PDF:** After capturing all pages, use the provided option to merge these images into a single PDF file.
-   
-사용법: https://infinitt.tistory.com/291
